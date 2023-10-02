@@ -10,9 +10,64 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: chartreuse;
-    height: 60px;    
+    height: 60px;
+    position:; 
+    width: 100%;   
 }
 .menu{
     display: flex;
+}
+.jumbo{
+    background-color:aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.picjumbo{
+    width: 800px;
+    margin-top: 30%;
+}
+.info{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 10%;
+}
+.titolo{
+    background-color: blueviolet;
+}
+.colonne{
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+}
+.colonna1{
+    border-style: solid;
+    width: 100%;
+    margin-right: 36px;
+}
+.colonna2{
+    border-style: solid;
+    width: 100%;
+    margin-right: 36px;
+}
+.colonna3{
+    border-style: solid;
+    width: 100%;
+}
+.finfo{
+    border-style: solid;
+    width: 100%;
+    margin-top: 5%;
+}
+.ptitolo{
+    text-align: center;
+    border-style: solid;
+}
+.infopartner{
+    display: flex;
+    padding-top: 10%;
+}
+.picpartner{
+    width: 50%;
 }
