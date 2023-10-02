@@ -71,3 +71,41 @@ header{
 .picpartner{
     width: 50%;
 }
+.app{
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+.struttura{
+    display: flex;
+    width: 100%;
+}
+.windows{
+    border-style: solid;
+    width: 100%;
+    margin-right: 36px;
+}
+.img{
+    width: 100%;
+}
+.partners{
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+}
+.quadrato{
+    background-color: aquamarine;
+
+}
+.logo1{
+    
+    width: 44%;
+}
+.logo2{
+    width: 10%;
+}
+.logo3{
+    width: 10%;
+}
+.logo4{
+    width: 10%;
+}
