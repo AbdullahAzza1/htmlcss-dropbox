@@ -15,6 +15,16 @@ header{
     background-color: white;
     width: 100%;   
 }
+.spazzi{
+    margin: 0 10px 0 10px;
+}
+.boh{
+    background-color: rgb(59, 95, 179);
+    color: white;
+    width: 5vw;
+    height: 5vh;
+    border-style: none;
+}
 .menu{
     display: flex;
 }
@@ -152,10 +162,14 @@ header{
 .partners{
     margin-top: 10%;
     width: 100%;
+    display: flex;
+}
+.primuq{
+    width: calc(100% / 3);
 }
 .quadratone{
     display: flex;
-    width: 32%;
+    width: 100%;
 }
 .quadrato{
     background-color:#a2d39b ;
@@ -181,7 +195,7 @@ header{
 }
 .quadratonesud{
     display: flex;
-    width: 32%;
+    width: 100%;
 }
 .quadrato2{
     background-color: #0093ce;
@@ -205,22 +219,86 @@ header{
 .logo4{
     width: 55%;
 }
-
-
-
-
-
-
-
+.primus2{
+    width: calc(100% / 3);
+    background-color: #f5f5f5;
+    padding: 3%;
+    height: 333px;
+    overflow: auto;
+}
+.riconoscimento{
+    margin: 18% 0 11%;
+}
+.picprimus{
+    width: 65%;
+}
+.primus3{
+    width: calc(100% / 3);
+}
+.quadratone3{
+    display: flex;
+}
+.quadrato6{
+    background-color: #d50120;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.logo5{
+    width: 40%;
+}
+.quadrato7{
+    background-color: #b4d0e7 ;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.logo6{
+    width: 50%;
+}
+.quadratone4{
+    display: flex;
+}
+.quadrato8{
+    background-color: #0d2481 ;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.logo7{
+    width: 60%;
+}
+.quadrato9{
+    background-color:  #ffd830;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.logo8{
+    width: 40%;
+}
 .drop{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;    
-    height: 75vh;
-    background-color: rgb(133, 217, 217);
+    height: 45vh;
+    background-color: #b4d0e7;
 }
-
+.nuovac{
+    width: 18%;
+    height: 14%;
+    margin: 0 0 0 15%;
+    border-style: none;
+}
 .faq{
     width: 70%;
     margin: 0 auto;
