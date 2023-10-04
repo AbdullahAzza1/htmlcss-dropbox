@@ -155,10 +155,11 @@ header{
 }
 .quadratone{
     display: flex;
+    width: 32%;
 }
 .quadrato{
     background-color:#a2d39b ;
-    width: 16%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -169,7 +170,7 @@ header{
 }
 .quadrato1{
     background-color:#60092b ;
-    width: 16%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -180,10 +181,11 @@ header{
 }
 .quadratonesud{
     display: flex;
+    width: 32%;
 }
 .quadrato2{
     background-color: #0093ce;
-    width: 16%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -194,7 +196,7 @@ header{
 }
 .quadrato3{
     background-color: #ff1b1c;
-    width: 16%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
