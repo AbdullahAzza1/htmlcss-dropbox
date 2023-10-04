@@ -90,6 +90,25 @@ header{
 }
 .text{
     width: 65%;
+    display: flex;
+}
+.datiazienda{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+}
+.annulla{
+    height: 40px;
+    background-color: rgb(60, 115, 204);
+    color: white;
+    border-style: none;
+}
+.ufficio{
+    margin: 20px 0 60px;
+}
+.ciao3{
+    display: flex;
+    margin-left: 70%;
 }
 .ptitolo{
     text-align: center;
@@ -102,6 +121,15 @@ header{
 .picpartner{
     width: 50%;
 }
+.testo{
+    margin: 60px;
+}
+.bottone-partner{
+    width: 35%;
+    height: 15%;
+    margin-top: 10%;
+}
+
 .app{
     margin-top: 10%;
     margin-bottom: 20%;
@@ -110,8 +138,11 @@ header{
     display: flex;
     width: 100%;
 }
+.tools{
+    margin: 10px 0 30px;
+}
 .windows{
-    border-style: solid;
+    border-style: none;
     width: 100%;
     margin-right: 36px;
 }
@@ -128,26 +159,29 @@ header{
 .logo1{ 
     width: 44%;
 }
-.logo2{
-    width: 10%;
-}
-.logo3{
-    width: 10%;
-}
-.logo4{
-    width: 10%;
-}
+
 .drop{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 85vh;
+    width: 100%;    
+    height: 75vh;
     background-color: rgb(133, 217, 217);
+}
+.contenitore{
+    width: 70%;
+    margin: 0 auto; 
 }
 .faq{
     width: 70%;
     margin: 0 auto;
     height: 85vh;
+}
+.faq-domande{
+    margin: 15% 0 10%;
+}
+.domande{
+    margin: 3% 0 3%;
 }
 footer{
         background-color: black;
@@ -163,7 +197,11 @@ footer{
 }
 li{
     list-style-type: none;
+    margin: 5% 0 5%;
+}
+ul{
+    width: 190%;
 }
 .lista{
-    padding-right: 20%;
+    padding-right: 14%;
 }
